@@ -1,0 +1,10 @@
+h1{
+    color: red;
+}
+.card{
+    width: 30%;
+    display: inline-block;
+    border: 1px solid grey;
+    background: rgb(194, 190, 190);
+    margin: 5px;
+}
